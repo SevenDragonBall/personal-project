@@ -1,0 +1,10 @@
+#BlueJ class context
+comment0.params=
+comment0.target=void\ Move()
+comment1.params=
+comment1.target=void\ Retreat()
+comment2.params=Direction
+comment2.target=void\ SetDirection(int)
+comment3.params=
+comment3.target=void\ SetCrash()
+numComments=4
